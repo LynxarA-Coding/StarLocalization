@@ -1,0 +1,2 @@
+# StarLocalization
+Star Citizen Localization
